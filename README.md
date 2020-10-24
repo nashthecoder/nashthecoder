@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning AWS Essential Training for Developers
 
-- 💬 Ask me about ...
+## Projects 
+
+[Amazon Clone](https://my-amazon-clone-ke.netlify.app) Built with React JS, Redux, Material UI and Firebase. 
 
 - 📫 How to reach me: 
 Email:  naijeria@mamatech.co.ke 
