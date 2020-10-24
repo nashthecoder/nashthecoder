@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Twitter Clone 
+-   I’m currently working on Twitter Clone 
 
-- 🌱 I’m currently learning AWS Essential Training for Developers
+-   I’m currently learning AWS Essential Training for Developers
 
 ## Projects 
 
@@ -17,5 +17,5 @@ Phone:  +254 728 593127
 
 😄 Pronouns: she/her
 
-- ⚡ Fun fact:
+
 
