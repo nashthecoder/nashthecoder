@@ -8,7 +8,7 @@ Phone:  +254 728 593127.
 
 ---
 
--   I’m currently working on an MVP for online platform for young people to access reproductive health information. [Let's Talk](https://github.com/nashthecoder/letstalk_w)
+-   I’m currently working on a MVP [Let's Talk](https://github.com/nashthecoder/letstalk_w) an online platform for young people to access reproductive health information. 
 
 -   I’m currently learning AWS Essential Training for Developers
 
