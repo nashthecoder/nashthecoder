@@ -7,7 +7,7 @@ Phone:  +254 728 593127.
 ---
 -   I am a Full Stack Engineer at [Equilo](https://www.equilo.io/) 
 
--   I’m currently working on a MVP [Let's Talk](https://github.com/nashthecoder/letstalk_w) an online platform for young people to access reproductive health information. 
+-   I’m working on a MVP [Let's Talk](https://github.com/nashthecoder/letstalk_w) an online platform for young people to access reproductive health information. 
 
 ## Projects 
 
