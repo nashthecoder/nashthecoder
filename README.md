@@ -1,8 +1,7 @@
 ## Naijeria Toweett 
-😄 Pronouns: she/her.
+😄  Pronouns: she/her.
 
-📫 
-Email:  naijeria@mamatech.co.ke.
+📫  naijeria@mamatech.co.ke.
 
 Phone:  +254 728 593127.
 ---
