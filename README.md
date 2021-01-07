@@ -3,7 +3,8 @@
 
 📫  naijeria@mamatech.co.ke.
 
-📲 +254 728 593127.
+📲  254 728 593127
+
 ---
 I am a Full Stack Engineer at [Equilo](https://www.equilo.io/) 
 
