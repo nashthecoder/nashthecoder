@@ -13,6 +13,7 @@ I am a Full Stack Engineer at [Equilo](https://www.equilo.io/)
 I’m working on
  - [Let's Talk](https://github.com/nashthecoder/letstalk_w) an MVP mobile platform for young people to access reproductive health information. Built with React Native.
  - [Afya CRM](https://github.com/nashthecoder/afya-crm) a bespoke CRM for NGO's that incoporates Grant reporting modules. Built with React Native.
+  - [TwendeKazi] Project management application. Built with Ruby on Rails.
 
 
 ## Completed Projects 
