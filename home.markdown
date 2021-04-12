@@ -1,6 +1,7 @@
 ---
 title: Welcome to my blog
 date: 2021-04-12 11:40:00 Z
+position: 0
 ---
 
 ![20210202_103122.jpg](/uploads/20210202_103122.jpg)
