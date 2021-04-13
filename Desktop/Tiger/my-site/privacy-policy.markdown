@@ -1,8 +1,10 @@
 ---
 title: Privacy Policy
+permalink: "/privacy-policy/"
 layout: simple
 ---
 
+<<<<<<< HEAD
 <h1>Privacy Policy</h1>
 
 <ul>
@@ -20,3 +22,5 @@ layout: simple
     </li>
 
 </ul>
+=======
+>>>>>>> e2d55a676aa95ebb7816be74feb729b0b66c10dc
