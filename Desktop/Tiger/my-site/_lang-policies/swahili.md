@@ -1,10 +1,9 @@
 ---
-title: Privacy Policy
-layout: simple
-language: Swahili
+short_name: swa
+name: Swahili Policy
 ---
 
-Swahili
+Privacy Policy - Swahili Description:
 SERA YA FARAGHA/USIRI YA TRIGGERISE Kuhifadhi data yako, usuri na data ya kibinafsi (jinsi ilivyoelezwa kwa Makala ya 4(1) ya kanuni za kijumla za ulinzi wa data (EU) 2016/679 (“GDRP”)) ni ya muhimu kwa Triggerise stitching na wahusika wake- Triggerise Kenya private limited, tawi la Triggerise Stitching Ethiopia, Triggerise India, Triggerise BV, Triggerise ya Afrika Kusini Pty limited na Triggerise LABS Unipessoal Lda (“sisi”, “yetu” ama “sisi”). Ni ya muhimu zaidi ya kwamba wateja wetu (“watumizi”) wanajihisi salama wakitumia huduma zetu, bidhaa na habari ambazo tunapeana kupitia kwa majukwaa yetu mbalimbali.
 
 Sera hii inaonyesha msingi wa jinsi vile habari yoyote ya kibinafsi ambayo tunatoa kwako, ama ambayo unatupea itakavyo sindikwa/chakatwa. Tafadhali soma sera hii ya usiri kwa makini ili uelewe aina ya habari ambazo tunachukua kwako, jinsi tunavyozitumia, jinsi tofauti ambapo tutapeana kwa wahusika wa tatu, na haki zako kulingana na ile data ya kibinafsi unayotupea.

@@ -1,9 +1,9 @@
 ---
-title: Privacy Policy
-layout: simple
-language: Hindi
+short_name: hin
+name: Hindi Policy
 ---
 
+Privacy Policy - Hindi Description:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Enim ut tellus elementum sagittis vitae et leo. Tincidunt ornare massa eget egestas purus. Arcu non sodales neque sodales ut etiam sit amet. Tortor consequat id porta nibh. Cras adipiscing enim eu turpis egestas. Justo laoreet sit amet cursus sit amet dictum sit amet. Semper risus in hendrerit gravida rutrum quisque non. Odio facilisis mauris sit amet massa vitae tortor. Sit amet cursus sit amet dictum sit amet. Suscipit tellus mauris a diam maecenas. Ullamcorper morbi tincidunt ornare massa.
 
 Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Duis ultricies lacus sed turpis. At risus viverra adipiscing at in. Vel orci porta non pulvinar neque laoreet. Semper feugiat nibh sed pulvinar. Volutpat odio facilisis mauris sit amet massa vitae tortor. Augue lacus viverra vitae congue eu consequat ac felis donec. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl. In eu mi bibendum neque egestas congue. Et molestie ac feugiat sed lectus vestibulum. Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Pharetra sit amet aliquam id diam. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio. Justo donec enim diam vulputate ut pharetra sit amet aliquam. Feugiat vivamus at augue eget arcu dictum. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo. Ullamcorper a lacus vestibulum sed arcu non odio.

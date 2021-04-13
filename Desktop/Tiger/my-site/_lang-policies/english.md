@@ -1,7 +1,6 @@
 ---
-title: Privacy Policy
-layout: simple
-language: English
+short_name: eng
+name: English Policy
 ---
 
 Protecting your data, privacy and personal data (as defined under Article 4(1) of the General Data Protection Regulation (EU) 2016/679 (“GDPR”)) is very important to Triggerise Stitching and its affiliates – Triggerise Kenya Private Limited, Triggerise Stichting Ethiopia branch, Triggerise India, Triggerise BV, Triggerise South Africa Pty Limited and Triggerise LABS Unipessoal Lda (“us”, “our” or “we”). It is vitally important to us that our customers (the “users”) feel secure when using the services, products and information that we provide through our various platforms.
