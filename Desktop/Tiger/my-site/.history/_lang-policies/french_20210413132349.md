@@ -1,6 +1,6 @@
 ---
-layout: simple
 title: Privacy Policy
+layout: simple
 language: French
 ---
 

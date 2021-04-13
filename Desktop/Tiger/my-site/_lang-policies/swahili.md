@@ -1,7 +1,7 @@
 ---
-layout: simple
 title: Privacy Policy
-language: Swahili 
+layout: simple
+language: Swahili
 ---
 
 Swahili
