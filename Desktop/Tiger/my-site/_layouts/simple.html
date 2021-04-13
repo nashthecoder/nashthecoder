@@ -1,11 +1,23 @@
---- layout: default --- {% assign title = page.title %} {% assign content = page.content %} {% include contactPolicyBanner.html colour="cream" sectionTitle=title description=content classList="flexWrapper padd" %}
+--- 
+layout: default 
+--- 
+
+{% assign title = page.title %} 
+{% assign content = page.content %} 
 {% if page.title == "Privacy Policy" %}
-English / Swahili / 
-{% endif %} {% if page.title != "Contact" %}
+English / Swahili / French /Hindi
+
 {% if page.title == "Privacy Policy" %}
 English
 {% endif %} {{page.Body | markdownify }} {% if page.title == "Privacy Policy" %}
 
 Swahili
-{{page.['Privacy Policy - Swahili Description'] | markdownify }} {% endif %} 
+{{page['Privacy Policy - Swahili Description'] | markdownify }} 
+
+French
+{{page['Privacy Policy - FrenchDescription'] | markdownify }} 
+
+
+Hindi
+{{page['Privacy Policy - Hindi Description'] | markdownify }} {% endif %} 
 {% endif %} 
