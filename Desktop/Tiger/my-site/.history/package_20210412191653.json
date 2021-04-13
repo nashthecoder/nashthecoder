@@ -1,0 +1,19 @@
+{
+  "name": "my-site",
+  "version": "1.0.0",
+  "description": "https://jekyllrb.com/docs/themes/#overriding-theme-defaults",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "author": "NashTheCoder",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.1.0",
+    "gulp-watch": "^4.2.4"
+  }
+}

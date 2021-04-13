@@ -1,0 +1,3 @@
+var gulp = require('gulp');
+var shell = require('gulp-shell');
+var browserSync = require('browser-sync').create();
