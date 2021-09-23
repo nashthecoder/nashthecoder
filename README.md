@@ -17,8 +17,7 @@ I’m working on
 
 ## Completed Projects 
 
- - [Grant Tracker](https://grant-tracker-mvp.netlify.app) Coding bootcamp MVP - grant reporting tool. Built with React Js, Material UI, MySQL and NodeJS.
- - [GithubRepo](https://github.com/nashthecoder/mycodeop-mvp)
+ - [Grant Tracker](https://grant-tracker-mvp.netlify.app) Coding bootcamp MVP - grant reporting tool. Built with React Js, Material UI, MySQL and NodeJS. [Github Repo](https://github.com/nashthecoder/mycodeop-mvp)
 <img width="1440" alt="Screenshot 2021-07-02 at 22 02 59" src="https://user-images.githubusercontent.com/15178823/124318797-e12cb600-db81-11eb-8972-0cc5723a8a3b.png"> 
 
  - [Amazon Clone](https://my-amazon-clone-ke.netlify.app) Built with React.js, Redux, Material UI and Firebase. 
