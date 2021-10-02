@@ -26,7 +26,7 @@ I’m working on
  - [Twitter Clone](https://twitter-clone-ke.netlify.app/) Built with React.js, Redux, Material UI and Firebase.
  <img width="1440" alt="Twitter Clone" src="https://user-images.githubusercontent.com/15178823/124318697-b5113500-db81-11eb-9c77-65b917a84946.png">
  
-- [Rich Text Editor](https://rich-text-editor-demo.netlify.app/)Rich text editor built with React and Draft.js. [Github Repo](https://github.com/nashthecoder/rich-text-editor)
+- [Rich Text Editor](https://rich-text-editor-demo.netlify.app/) Rich text editor built with React and Draft.js. [Github Repo](https://github.com/nashthecoder/rich-text-editor)
  <img width="1440" alt="Rich Text Editor App" src="https://user-images.githubusercontent.com/15178823/134589486-6088e66b-b21c-452c-8adf-0623639df7d1.png">
 
 
