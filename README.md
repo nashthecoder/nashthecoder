@@ -16,7 +16,7 @@ I’m working on
 
 
 ## Completed Projects
-- Msingi Lead Capture Page - Lead capture page for a SaaS application for non-profits.
+- Msingi Lead Capture Page - Lead capture page for a SaaS application for non-profits. [Github Repo](https://github.com/nashthecoder/msingi-landing-page)
  <img width="1440" alt="Rich Text Editor App" src="https://user-images.githubusercontent.com/15178823/142035655-430475f9-faa5-4839-913c-29f6379e51fe.png">
 
 - [Rich Text Editor](https://rich-text-editor-demo.netlify.app/) Rich text editor built with React and Draft.js.
