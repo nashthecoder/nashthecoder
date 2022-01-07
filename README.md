@@ -7,7 +7,7 @@
 
 ---
 
-## Current Projects
+## Work In Progress
 
 I’m working on
 
