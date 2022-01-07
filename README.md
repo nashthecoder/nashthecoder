@@ -38,8 +38,7 @@ I’m working on
     
  | [**Grant Tracker**](https://grant-tracker-mvp.netlify.app) | 
  | :--- | 
- |  *Coding bootcamp MVP - grant reporting tool.* | 
- | *Built with React Js, Material UI, MySQL and NodeJS.* | 
+ |  *Coding bootcamp MVP - grant reporting tool. - Built with React Js, Material UI, MySQL and NodeJS.* | 
  | <img width="1440" alt="Grant Tracker" src="https://user-images.githubusercontent.com/15178823/124318797-e12cb600-db81-11eb-8972-0cc5723a8a3b.png"> |
  | [Github Repo](https://github.com/nashthecoder/mycodeop-mvp) |
 
