@@ -5,6 +5,27 @@
 
 📫  naijeria@mamatech.co.ke.
 
+
+<html>
+<body>
+
+<h2>This table has no borders:</h2>
+<table>
+  <tr>
+    <td>100</td>
+    <td>200</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td>400</td>
+    <td>500</td>
+    <td>600</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 ---
 | <img src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly"/>      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashthecoder&layout=compact)](https://github.com/nashthecoder/github-readme-stats) |
 | :--- | :--- | 
