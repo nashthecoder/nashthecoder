@@ -11,9 +11,9 @@
 
 I’m working on
 
-| [Let's Talk](https://github.com/nashthecoder/letstalk_w) | [Afya CRM](https://github.com/nashthecoder/afya-crm) | [Twende Kazi](https://twende-kazi-saas-app.herokuapp.com/) | 
-| :--- | :--- | :--- |
-| R*an MVP mobile platform for young people to access reproductive health information. Built with React Native.* | *a bespoke CRM for NGO's that incoporates Grant reporting modules. Built with React Native.*| *a Project management app. Built with Ruby on Rails and deplyed in Heroku.* |
+| [Embrace](https://github.com/nashthecoder/embrace-mvp) | [Let's Talk](https://github.com/nashthecoder/letstalk_w) | [Afya CRM](https://github.com/nashthecoder/afya-crm) | [Twende Kazi](https://twende-kazi-saas-app.herokuapp.com/) | 
+| :--- | :--- | :--- | :--- |
+| *an MVP self help mobile app. Built with React Native.* | *an MVP mobile platform for young people to access reproductive health information. Built with React Native.* | *a bespoke CRM for NGO's that incoporates Grant reporting modules. Built with React Native.*| *a Project management app. Built with Ruby on Rails and deplyed in Heroku.* |
 
 
 ## Completed Projects
