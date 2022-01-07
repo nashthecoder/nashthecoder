@@ -11,8 +11,6 @@
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly"/></td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-      <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashthecoder&layout=compact)](https://github.com/nashthecoder/github-readme stats)</td>
     </tr>
   </table>
 </body>
