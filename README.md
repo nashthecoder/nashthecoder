@@ -6,21 +6,9 @@
 📫  naijeria@mamatech.co.ke.
 
 ---
-<html>
-<body>
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly"/></td>
-    </tr>
-  </table>
-</body>
-  <style>
-    td, th {
-       border: none!important;
-    }
-</style>
-</html>
+<img src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly"/>
 
+---
 ## Work In Progress
 
 I’m working on
