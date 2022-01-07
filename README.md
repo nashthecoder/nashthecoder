@@ -11,14 +11,14 @@
 
 
 ---
-## Work In Progress
+<!-- ## Work In Progress
 
 I’m working on
 
 | [Embrace](https://github.com/nashthecoder/embrace-mvp) | [Let's Talk](https://github.com/nashthecoder/letstalk_w) | [Afya CRM](https://github.com/nashthecoder/afya-crm) | [Twende Kazi](https://twende-kazi-saas-app.herokuapp.com/) | 
 | :--- | :--- | :--- | :--- |
 | *an MVP self help mobile app.* | *an MVP mobile platform for young people to access reproductive health information.* | *a bespoke CRM for NGO's that incoporates Grant reporting modules.*| *a Project management app.* |
-|*Built with React Native.* | *Built with React Native.* | *Built with React Native.*| *Built with Ruby on Rails* |
+|*Built with React Native.* | *Built with React Native.* | *Built with React Native.*| *Built with Ruby on Rails* | -->
 
 
 ## Completed Projects
