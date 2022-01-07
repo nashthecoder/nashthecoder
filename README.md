@@ -6,7 +6,7 @@
 📫  naijeria@mamatech.co.ke.
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly align=center"/>
 
 ---
 ## Work In Progress
