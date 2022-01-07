@@ -35,6 +35,11 @@ I’m working on
  | <img width="1440" alt="Twitter Clone" src="https://user-images.githubusercontent.com/15178823/124318697-b5113500-db81-11eb-9c77-65b917a84946.png"> | <img width="1440" alt="Amazon Clone" src="https://user-images.githubusercontent.com/15178823/124318746-cc502280-db81-11eb-8496-361dffc0876f.png"> |
  | | | 
 
-- [**Grant Tracker**](https://grant-tracker-mvp.netlify.app) *Coding bootcamp MVP - grant reporting tool. Built with React Js, Material UI, MySQL and NodeJS.* 
-   [Github Repo](https://github.com/nashthecoder/mycodeop-mvp)
-<img width="1440" alt="Grant Tracker" src="https://user-images.githubusercontent.com/15178823/124318797-e12cb600-db81-11eb-8972-0cc5723a8a3b.png"> 
+    
+ | **Grant Tracker**](https://grant-tracker-mvp.netlify.app) | 
+ | :--- | 
+ |  *Coding bootcamp MVP - grant reporting tool.* | 
+ | *Built with React Js, Material UI, MySQL and NodeJS.* | 
+ | <img width="1440" alt="Grant Tracker" src="https://user-images.githubusercontent.com/15178823/124318797-e12cb600-db81-11eb-8972-0cc5723a8a3b.png"> |
+ | [Github Repo](https://github.com/nashthecoder/mycodeop-mvp) |
+
