@@ -9,6 +9,8 @@
 <img 
    src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly" 
 />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashthecoder)](https://github.com/nashthecoder/github-readme-stats)
 ---
 
 ## Work In Progress
