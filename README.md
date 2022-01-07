@@ -1,4 +1,4 @@
-## Naijeria Toweett 
+<h1 align-"center"></h1>Naijeria Toweett 
 ![Me](https://user-images.githubusercontent.com/15178823/148552308-c7694b50-0679-4684-abf4-1cbe8102da75.png)
 
 😄  Pronouns: she/her.
