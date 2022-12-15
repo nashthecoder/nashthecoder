@@ -20,6 +20,16 @@ I’m working on
 | *an MVP self help mobile app.* | *an MVP mobile platform for young people to access reproductive health information.* | *a bespoke CRM for NGO's that incoporates Grant reporting modules.*| *a Project management app.* |
 |*Built with React Native.* | *Built with React Native.* | *Built with React Native.*| *Built with Ruby on Rails* | -->
 
+## Product Management
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/watch?v=rPOujJeoEuo&amp;ab_channel=CodeOpTeam"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 ## Completed Projects
 
