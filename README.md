@@ -21,15 +21,8 @@ I’m working on
 |*Built with React Native.* | *Built with React Native.* | *Built with React Native.*| *Built with Ruby on Rails* | -->
 
 ## Product Management
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=rPOujJeoEuo&amp;ab_channel=CodeOpTeam"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+
+[![IMAGE_ALT](https://www.youtube.com/watch?v=rPOujJeoEuo&amp;ab_channel=CodeOpTeam)
 
 ## Completed Projects
 
