@@ -22,7 +22,8 @@ I’m working on
 
 ## Product Management
 
-[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
+[![IMAGE_ALT]([https://www.youtube.com/watch?v=UmX4kyB2wfg](https://www.youtube.com/watch?v=rPOujJeoEuo&ab_channel=CodeOpTeam)
+
 
 ## Completed Projects
 
