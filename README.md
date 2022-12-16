@@ -30,8 +30,8 @@ COMING SOON!
 | **E-Card - RSVP Confirmation - Light**| **E-Card - RSVP Confirmation - Light - Dark** | 
  | :--- | :--- |
  | *Lead capture page for a SaaS application for non-profits.* | *Rich text editor built with React and Draft.js.* | 
- | ![Screen Shot 2022-12-16 at 18 22 25](https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png)
- |  ![Screen Shot 2022-12-16 at 18 21 21](https://user-images.githubusercontent.com/15178823/208134026-fc26e5aa-5790-443e-a52f-29ec556b2f16.png)
+ | <img width="720" src="https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png">
+ | <img width="720" src="<https://user-images.githubusercontent.com/15178823/208134026-fc26e5aa-5790-443e-a52f-29ec556b2f16.png">
 
 
  | [**Msingi Lead Capture Page**](https://msingi-lead-capture-page.netlify.app/)| [**Rich Text Editor**](https://rich-text-editor-demo.netlify.app/) | 
