@@ -27,9 +27,8 @@ COMING SOON!
 
 ## Completed Projects
 
-| **E-Card - RSVP Confirmation - Light**| **E-Card - RSVP Confirmation - Light - Dark** | 
- | :--- | :--- |
- | <img width="1440" src="https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png">  | <img width="1440" src="<https://user-images.githubusercontent.com/15178823/208134026-fc26e5aa-5790-443e-a52f-29ec556b2f16.png"> | 
+**E-Card - RSVP Confirmation - Light**
+<img width="1440" src="https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png">
 
  | [**Msingi Lead Capture Page**](https://msingi-lead-capture-page.netlify.app/)| [**Rich Text Editor**](https://rich-text-editor-demo.netlify.app/) | 
  | :--- | :--- |
