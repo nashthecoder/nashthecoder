@@ -27,7 +27,7 @@ COMING SOON!
 
 ## Completed Projects
 
-![E-Card - RSVP Confirmation](https://user-images.githubusercontent.com/15178823/208132329-75896c95-01e6-4737-be33-ec9a37fe5c8a.png)
+[E-Card - RSVP Confirmation](https://user-images.githubusercontent.com/15178823/208132329-75896c95-01e6-4737-be33-ec9a37fe5c8a.png)
 
 
  | [**Msingi Lead Capture Page**](https://msingi-lead-capture-page.netlify.app/)| [**Rich Text Editor**](https://rich-text-editor-demo.netlify.app/) | 
