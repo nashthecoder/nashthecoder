@@ -6,7 +6,7 @@
 📫  naijeria@mamatech.co.ke.
 
 ---
-|<img src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly"/> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashthecoder)](https://github.com/nashthecoder/github-readme-stats) |
+|<img width="1440" src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly"/> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashthecoder)](https://github.com/nashthecoder/github-readme-stats) |
 | -- | -- |
 
 
