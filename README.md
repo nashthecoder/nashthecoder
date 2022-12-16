@@ -27,13 +27,11 @@ COMING SOON!
 
 ## Completed Projects
 
-| [**E-Card - RSVP Confirmation - Light**]| [**E-Card - RSVP Confirmation - Light - Dark**] | 
+| **E-Card - RSVP Confirmation - Light**| **E-Card - RSVP Confirmation - Light - Dark** | 
  | :--- | :--- |
  | *Lead capture page for a SaaS application for non-profits.* | *Rich text editor built with React and Draft.js.* | 
- | <img width="1440" alt="Rich Text Editor App" src="https://user-images.githubusercontent.com/15178823/142045286-c2d53760-3290-41e1-8e9c-d307a64f524b.png"> | <img width="1440" alt="Rich Text Editor App" src="https://user-images.githubusercontent.com/15178823/134589486-6088e66b-b21c-452c-8adf-0623639df7d1.png"> 
- | [Github Repo](https://github.com/nashthecoder/msingi-landing-page) | [Github Repo](https://github.com/nashthecoder/rich-text-editor) 
-
-![E-Card - RSVP Confirmation](https://user-images.githubusercontent.com/15178823/208132329-75896c95-01e6-4737-be33-ec9a37fe5c8a.png)
+ | ![Screen Shot 2022-12-16 at 18 22 25](https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png)
+ |  ![Screen Shot 2022-12-16 at 18 21 21](https://user-images.githubusercontent.com/15178823/208134026-fc26e5aa-5790-443e-a52f-29ec556b2f16.png)
 
 
  | [**Msingi Lead Capture Page**](https://msingi-lead-capture-page.netlify.app/)| [**Rich Text Editor**](https://rich-text-editor-demo.netlify.app/) | 
