@@ -30,8 +30,8 @@ COMING SOON!
 **E-Card - RSVP Confirmation - Light**
 <br />
 <br />
-<br />
-<img width="400" align="center" src="https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png">
+
+<img width="400" style="text-align: center; src="https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png">
 
  | [**Msingi Lead Capture Page**](https://msingi-lead-capture-page.netlify.app/)| [**Rich Text Editor**](https://rich-text-editor-demo.netlify.app/) | 
  | :--- | :--- |
