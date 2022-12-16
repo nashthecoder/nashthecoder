@@ -26,10 +26,9 @@ COMING SOON!
 
 
 ## Completed Projects
-![Screen Shot 2022-12-16 at 18 21 21](https://user-images.githubusercontent.com/15178823/208132320-fb7a95c0-12e6-43b9-a959-a1727bd8f15f.png)
-![Screen Shot 2022-12-16 at 18 22 25](https://user-images.githubusercontent.com/15178823/208132329-75896c95-01e6-4737-be33-ec9a37fe5c8a.png)
 
- 
+![E-Card - RSVP Confirmation](https://user-images.githubusercontent.com/15178823/208132329-75896c95-01e6-4737-be33-ec9a37fe5c8a.png)
+
 
  | [**Msingi Lead Capture Page**](https://msingi-lead-capture-page.netlify.app/)| [**Rich Text Editor**](https://rich-text-editor-demo.netlify.app/) | 
  | :--- | :--- |
