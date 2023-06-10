@@ -11,7 +11,7 @@
 
 
 ---
-## [Wiki](https://github.com/nashthecoder/nashthecoder/wiki)
+## [My Wiki](https://github.com/nashthecoder/nashthecoder/wiki)
 ---
 <!-- ## Work In Progress
 
