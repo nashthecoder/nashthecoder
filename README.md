@@ -1,5 +1,5 @@
 # Naijeria Toweett
-![Me](https://user-images.githubusercontent.com/15178823/148552308-c7694b50-0679-4684-abf4-1cbe8102da75.png)
+![Naijeria Toweett](https://github.com/nashthecoder/nashthecoder/assets/15178823/aea6fac6-e850-4a39-9dad-d4e30bbf6469)
 
 😄  Pronouns: she/her.
 
