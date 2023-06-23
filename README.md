@@ -1,4 +1,3 @@
-# Naijeria Toweett
 ![Naijeria Toweett](https://github.com/nashthecoder/nashthecoder/assets/15178823/aea6fac6-e850-4a39-9dad-d4e30bbf6469)
 
 😄  Pronouns: she/her.
