@@ -3,14 +3,10 @@
 😄  Pronouns: she/her. || 📫  naijeria@mamatech.co.ke.
 
 ---
-|<img height="250" src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly"/> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashthecoder)](https://github.com/nashthecoder/github-readme-stats) |
-| -- | -- |
 
----
+| <img src="https://github.com/nashthecoder/nashthecoder/assets/15178823/850443f2-0838-4592-b0c0-abebf914d32b" width="250" height="250"> |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashthecoder)](https://github.com/nashthecoder/github-readme-stats)  | <img height="200" src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly"/> |
+| -- | -- | -- |
 
-<img src="https://github.com/nashthecoder/nashthecoder/assets/15178823/850443f2-0838-4592-b0c0-abebf914d32b" width="300" height="300">
-
----
 
 ## [My Wiki](https://github.com/nashthecoder/nashthecoder/wiki)
 ---
@@ -32,7 +28,7 @@ COMING SOON!
 
  |**E-Card - RSVP Confirmation - Light**| 
  | :--- | 
- |<img width="400" style="display:block" src="https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png">|
+ |<img width="250" style="display:block" src="https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png">|
 
 
  | [**Msingi Lead Capture Page**](https://msingi-lead-capture-page.netlify.app/)| [**Rich Text Editor**](https://rich-text-editor-demo.netlify.app/) | 
