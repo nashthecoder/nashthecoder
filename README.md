@@ -1,4 +1,4 @@
-![Naijeria Toweett (7)](https://github.com/nashthecoder/nashthecoder/assets/15178823/8ad5544f-6397-490a-912b-abdfd547a1a1)
+![Naijeria Toweett (1)](https://github.com/nashthecoder/nashthecoder/assets/15178823/c85510a5-c179-4b54-b98d-af2c73d5ef9d)
 
 😄  Pronouns: she/her. || 📫  naijeria@mamatech.co.ke.
 
