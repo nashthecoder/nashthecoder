@@ -19,10 +19,12 @@ I’m working on
 | *an MVP self help mobile app.* | *an MVP mobile platform for young people to access reproductive health information.* | *a bespoke CRM for NGO's that incoporates Grant reporting modules.*| *a Project management app.* |
 |*Built with React Native.* | *Built with React Native.* | *Built with React Native.*| *Built with Ruby on Rails* | -->
 
-## Product Management
-
-COMING SOON!
-
+## Work In Progress 
+ | [**Dance In Space Website**](https://dis-website.onrender.com/)| [**IMS**](https://ims-srf.ss3.sudokkuapp.com/) | 
+ | :--- | :--- |
+ | *Contemporay Dance Company Website Redesign.* | *Non Profit Information Management System.* | 
+ | <img width="1440" alt="Rich Text Editor App" src="https://github.com/nashthecoder/nashthecoder/assets/15178823/d53410fc-8d87-4a44-a32a-38469f944a2d"> | <img width="1440" alt="Rich Text Editor App" src="https://github.com/nashthecoder/nashthecoder/assets/15178823/5a38ec71-00d6-4529-88f8-7417a53c7d38"> 
+ | [Github Repo](https://github.com/danceintospace/dis-website) | [Github Repo](https://github.com/nashthecoder/ims) 
 
 ## Completed Projects
 
@@ -50,3 +52,6 @@ COMING SOON!
  | <img width="1440" alt="Grant Tracker" src="https://user-images.githubusercontent.com/15178823/124318797-e12cb600-db81-11eb-8972-0cc5723a8a3b.png"> |
  | [Github Repo](https://github.com/nashthecoder/mycodeop-mvp) |
 
+## Product Management
+
+COMING SOON!
