@@ -4,8 +4,8 @@
 
 ---
 
-| <img src="https://github.com/nashthecoder/nashthecoder/assets/15178823/850443f2-0838-4592-b0c0-abebf914d32b" width="220" height="220"> | <img height="200" src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly"/> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashthecoder)](https://github.com/nashthecoder/github-readme-stats) |
-| -- | -- | -- |
+<img src="https://github.com/nashthecoder/nashthecoder/assets/15178823/850443f2-0838-4592-b0c0-abebf914d32b" width="220" height="220"> <span> <img height="200" src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly"/>  
+
 
 
 ## [My Wiki](https://github.com/nashthecoder/nashthecoder/wiki)
