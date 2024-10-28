@@ -46,12 +46,10 @@ I’m working on
  |  *Coding bootcamp MVP - grant reporting tool. - Built with React Js, Material UI, MySQL and NodeJS.* | 
  | <img width="1440" alt="Grant Tracker" src="https://user-images.githubusercontent.com/15178823/124318797-e12cb600-db81-11eb-8972-0cc5723a8a3b.png"> |
  | [Github Repo](https://github.com/nashthecoder/mycodeop-mvp) |
-
- | | | 
  
  |**E-Card - RSVP Confirmation - Light**| 
  | :--- | 
- |<img width="250" style="display:block" src="https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png">|
+ |<img width="250" alt="RSVP Confirmation" src="https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png">|
  
 ## Product Management
 
