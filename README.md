@@ -28,11 +28,6 @@ I’m working on
 
 ## Completed Projects
 
- |**E-Card - RSVP Confirmation - Light**| 
- | :--- | 
- |<img width="250" style="display:block" src="https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png">|
-
-
  | [**Msingi Lead Capture Page**](https://msingi-lead-capture-page.netlify.app/)| [**Rich Text Editor**](https://rich-text-editor-demo.netlify.app/) | 
  | :--- | :--- |
  | *Lead capture page for a SaaS application for non-profits.* | *Rich text editor built with React and Draft.js.* | 
@@ -52,6 +47,12 @@ I’m working on
  | <img width="1440" alt="Grant Tracker" src="https://user-images.githubusercontent.com/15178823/124318797-e12cb600-db81-11eb-8972-0cc5723a8a3b.png"> |
  | [Github Repo](https://github.com/nashthecoder/mycodeop-mvp) |
 
+ | | | 
+ 
+ |**E-Card - RSVP Confirmation - Light**| 
+ | :--- | 
+ |<img width="250" style="display:block" src="https://user-images.githubusercontent.com/15178823/208134083-a8656c8e-db94-4d74-9807-8d53c79fdfac.png">|
+ 
 ## Product Management
 
 COMING SOON!
