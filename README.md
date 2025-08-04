@@ -3,6 +3,9 @@
 😄  Pronouns: she/her. || 📫  naijeria@mamatech.co.ke.
 
 ---
+<img width="1584" height="396" alt="NToweett_LinkedIn Banner (5)" src="https://github.com/user-attachments/assets/372b701c-f798-436e-8b54-4a865f59cef7" />
+
+
 
 <img src="https://github.com/nashthecoder/nashthecoder/assets/15178823/850443f2-0838-4592-b0c0-abebf914d32b" width="220" height="220"> <span> <img height="200" src="https://github-readme-stats.vercel.app/api?username=nashthecoder&show_icons=true&theme=jolly"/>  
 
