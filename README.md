@@ -86,7 +86,3 @@ A Power BI crime data analysis project for Washington, D.C., uncovering trends, 
 COMING SOON!
 
 ---
-
-## FAQ
-**Q: I manage some organization repositories—can I showcase them here?**  
-**A:** Yes. Since they’re public, you can (1) pin them on your profile and (2) add them to this README under an “Organization work” section with links and a short note on your role/impact.
